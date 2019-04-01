@@ -1,4 +1,5 @@
 <project name="Pocathon">
-	<Target name="Build" >
-	</Target>
+	<target name="Build" >
+		<echo>Hello</echo>
+	</target>
 </project>
