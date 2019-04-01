@@ -1,10 +1,5 @@
-<project>
-
-<Target name="Build" basedir=".">
-
-<echo>Hello World </echo>
-</Target>
-
-
-
+<project name="Pocathon">
+	<Target name="Build" >
+		<echo>Hello World </echo>
+	</Target>
 </project>
