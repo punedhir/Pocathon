@@ -1,0 +1,10 @@
+<project>
+
+<Target name="Build" basedir=".">
+
+<echo>Hello World </echo>
+</target>
+
+
+
+</project>
