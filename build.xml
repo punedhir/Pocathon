@@ -1,5 +1,6 @@
 <project name="Pocathon">
 	<target name="Build" >
 		<echo>Hello</echo>
+		<echo>Hello2</echo>
 	</target>
 </project>
